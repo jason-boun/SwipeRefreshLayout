@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/jasonbook/rd-evn/backup/opensource/SwipeRefreshLayoutDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/jasonbook/.android/build-cache/63fdb577b90d2228d52ce460928f460b7974d75c/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jasonbook/rd-evn/backup/opensource/SwipeRefreshLayoutDemo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/jasonbook/.android/build-cache/63fdb577b90d2228d52ce460928f460b7974d75c/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jasonbook/rd-evn/backup/opensource/SwipeRefreshLayoutDemo/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jasonbook/.android/build-cache/63fdb577b90d2228d52ce460928f460b7974d75c/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jasonbook/rd-evn/backup/opensource/SwipeRefreshLayoutDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/jasonbook/.android/build-cache/63fdb577b90d2228d52ce460928f460b7974d75c/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jasonbook/rd-evn/backup/opensource/SwipeRefreshLayoutDemo/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/jasonbook/.android/build-cache/63fdb577b90d2228d52ce460928f460b7974d75c/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/jasonbook/rd-evn/backup/opensource/SwipeRefreshLayoutDemo/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jasonbook/.android/build-cache/63fdb577b90d2228d52ce460928f460b7974d75c/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/jasonbook/rd-evn/backup/opensource/SwipeRefreshLayoutDemo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/jasonbook/.android/build-cache/63fdb577b90d2228d52ce460928f460b7974d75c/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/jasonbook/rd-evn/backup/opensource/SwipeRefreshLayoutDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/jasonbook/.android/build-cache/63fdb577b90d2228d52ce460928f460b7974d75c/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/jasonbook/rd-evn/backup/opensource/SwipeRefreshLayoutDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/jasonbook/.android/build-cache/63fdb577b90d2228d52ce460928f460b7974d75c/output/res/color/abc_primary_text_material_light.xml"
+    }
+]

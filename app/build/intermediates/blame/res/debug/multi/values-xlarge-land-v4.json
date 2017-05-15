@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/jasonbook/rd-evn/backup/opensource/SwipeRefreshLayoutDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/jasonbook/.android/build-cache/63fdb577b90d2228d52ce460928f460b7974d75c/output/res/values-xlarge-land/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 63,
+                        "endOffset": 115
+                    }
+                }
+            }
+        ]
+    }
+]
