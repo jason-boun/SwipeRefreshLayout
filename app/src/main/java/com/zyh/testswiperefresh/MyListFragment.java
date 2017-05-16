@@ -41,8 +41,8 @@ public class MyListFragment extends Fragment {
         //findview
         swipeRefreshLayout = (SwipeRefreshLayout) v.findViewById(R.id.swipeRefreshLayout);
         //设置卷内的颜色
-        swipeRefreshLayout.setColorSchemeResources(android.R.color.holo_blue_bright,
-                android.R.color.holo_green_light, android.R.color.holo_orange_light, android.R.color.holo_red_light);
+//        swipeRefreshLayout.setColorSchemeResources(android.R.color.holo_blue_bright, android.R.color.holo_green_light, android.R.color.holo_orange_light, android.R.color.holo_red_light);
+        swipeRefreshLayout.setColorSchemeResources(android.R.color.holo_blue_bright);
         //设置下拉刷新监听
         swipeRefreshLayout.setOnRefreshListener(new OnRefreshListener() {
             @Override
@@ -54,7 +54,7 @@ public class MyListFragment extends Fragment {
                         //停止刷新动画
                         swipeRefreshLayout.setRefreshing(false);
                     }
-                }, 3000);
+                }, 5000);
             }
         });
 
